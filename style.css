@@ -1,4 +1,6 @@
 .tracker{
     width:600px;
     margin:auto 0;
+    padding:50%;
+    box-sizing: border-box;
 }
